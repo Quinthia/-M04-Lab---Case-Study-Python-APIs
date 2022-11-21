@@ -1,4 +1,4 @@
-#Jordy Jordan
+#Quinthia Nishimwe
 #11/20/2022
 #This is basically an app that stores information about books (name, author, publisher) using the terminal
 
